@@ -1,4 +1,5 @@
 # LeetCode: Combination-Sum 
+Link to the original problem: https://leetcode.com/problems/combination-sum/
 ## Intuition 
 The problem expects us to get a list of lists such that the integers in each list sum up to a given target. 
 For this, firstly we will sort our candiates array in ascending order. 
